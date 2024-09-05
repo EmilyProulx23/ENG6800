@@ -58,9 +58,9 @@ Minor: Education/Writing & Rhetoric
 - Teaching Incentive Program Selection Committee (2024)
 
 ## Student Publications
-1. Goff, Mallory. "Health Literacy and Its Effects: A Genre Analysis of Patient Surveys." *Stylus: A Journal of First-Year Writing*, vol. 13, no. 1, 2023, pp. 18–58.
-2. Saxena King, Anika. "Rhetoric in the Online Vaccine Skepticism Discourse." *Stylus: A Journal of First-Year Writing*, vol. 11, no. 2, 2021, pp. 26–46.
-3. Aracena, Alvaro. "ENC 1101 Portfolio." *Stylus: A Journal of First-Year Writing*, vol. 10, no. 2, 2020.
+1. [Goff, Mallory. "Health Literacy and Its Effects: A Genre Analysis of Patient Surveys." *Stylus: A Journal of First-Year Writing*, vol. 13, no. 1, 2023, pp. 18–58.](https://cah.ucf.edu/writingrhetoric/stylus/issues/13-2/health-literacy-and-its-effects-a-genre-analysis-of-patient-surveys/)
+2. [Saxena King, Anika. "Rhetoric in the Online Vaccine Skepticism Discourse." *Stylus: A Journal of First-Year Writing*, vol. 11, no. 2, 2021, pp. 26–46.](https://cah.ucf.edu/writingrhetoric/stylus/issues/11-2/rhetoric-in-the-online-vaccine-skepticism-discourse/)
+3. [Aracena, Alvaro. "ENC 1101 Portfolio." *Stylus: A Journal of First-Year Writing*, vol. 10, no. 2, 2020.](https://aracnoalvaro.wixsite.com/website-1)
 
 ## Workshops Facilitated
 
