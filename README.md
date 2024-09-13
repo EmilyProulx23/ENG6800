@@ -1,5 +1,5 @@
 # Navigation
-[Home](README.md) | [Teaching Materials](Teaching Materials.md)| [CV](CV2.md)
+[Home](README.md) |[Teaching Materials](Teaching Materials.md)| [CV](CV2.md)
 
 ---
 ![Alt text](IMG_0002.jpeg)
