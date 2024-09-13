@@ -1,5 +1,5 @@
 # Navigation
-Home | Teaching Philosophy | CV
+[Home](README.md) | [Teaching Materials](Teaching Materials.md)| [CV](CV2.md)
 
 ---
 
