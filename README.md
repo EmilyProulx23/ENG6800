@@ -1,5 +1,5 @@
 # Navigation
-Home | Teaching Materials | CV
+Home | Teaching Philosophy | CV
 
 ---
 ![Alt text](IMG_0002.jpeg)
