@@ -4,7 +4,6 @@
 ---
 # Emily Proulx
 Orlando, FL | 772-579-1353 | Emily.Proulx@ucf.edu
-### [teaching portfolio](https://sites.google.com/u/0/d/1bGayKkpNBIt90IGL3PcSSmKo01afqqMK/preview)
 
 ## Education
 
