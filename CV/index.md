@@ -1,4 +1,7 @@
 ---
+layout: default
+title: CV
+---
 # Emily Proulx
 Orlando, FL | 772-579-1353 | Emily.Proulx@ucf.edu
 
