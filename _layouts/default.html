@@ -39,10 +39,11 @@
         </section>
 
         <aside id="sidebar">
-                    <a href="https://emilyproulx23.github.io/ENG6800/" class="button">Home</a>
-          <a href="Teaching" class="button">Teaching</a>
-           <a href="CV" class="button">Curriculum Vitae</a>
-          <a href="Projects" class="button">Projects</a>
+    <a href="https://emilyproulx23.github.io/ENG6800/" class="button">Home</a>
+    <a href="{{ '/Teaching' | relative_url }}" class="button">Teaching</a>
+    <a href="{{ '/CV' | relative_url }}" class="button">Curriculum Vitae</a>
+    <a href="{{ '/Projects' | relative_url }}" class="button">Projects</a>
+
 
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
