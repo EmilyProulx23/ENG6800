@@ -1,6 +1,3 @@
-# Navigation
-[Home](README.md) |[Teaching Materials](Teaching Materials.md)| [CV](CV2.md)
-
 ---
 # Emily Proulx
 Orlando, FL | 772-579-1353 | Emily.Proulx@ucf.edu
