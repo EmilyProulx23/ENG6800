@@ -5,16 +5,6 @@ title: Teaching Experience
 
 # Teaching Experience
 
-## Course 1
-- Description
-- Semester Taught
-
-## Course 2
-- Description
-- Semester Taught
-
-- <p>This page includes different examples of my teaching materials </p>
-
 - **ENC 1101, Freshman Composition I** (face-to-face, mediated, v-mode, blendflex)  
   This first-year writing course introduces students to composition theory and practices, with a focus on genre production and rhetorical analysis. Objectives for this course include:
   - Understanding the impact audience and purpose has on writing tasks
