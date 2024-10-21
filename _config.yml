@@ -8,3 +8,7 @@ plugins:
 - jekyll-remote-theme
 title: Emily Proulx Portfolio
 description: A Description of My Teaching & Research for the Texts and Technology Program
+show_downloads: true
+google_analytics:
+include:
+  - assets/css/style.scss
